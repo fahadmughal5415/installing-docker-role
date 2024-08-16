@@ -103,4 +103,4 @@ Custom `dockerd` options can be configured through this dictionary representing 
 
 This role was created in 2017 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
 
-Changed with some additional settings by me (Bart Smeding) to integrated in my other Ansible container application roles.
+Changed with some additional settings by me (Fahad Mughal) to integrated in my other Ansible container application roles.
